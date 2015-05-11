@@ -5,4 +5,4 @@ Thanks for taking the path.  Hope you found it at least somewhat useful.  Now go
 
 When you reach the end, please go chat with John about your experience and the next steps for putting this to use in real life.
 
-Bob
+Bob Loblaw - VP Eng, SuperMegaCorp

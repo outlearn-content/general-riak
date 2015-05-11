@@ -4,4 +4,4 @@ After getting your mind ready to think and speak the Riak way, you’ll prep you
 
 Good luck and remember to try things out for yourself!
 
-Bob
+Bob Loblaw - VP Eng, SuperMegaCorp

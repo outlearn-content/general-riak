@@ -3,4 +3,4 @@ In prod we use Python to do our Riak magic. But when you just want to test somet
 
 Happy hacking!
 
-Bob
+Bob Loblaw - VP Eng, SuperMegaCorp

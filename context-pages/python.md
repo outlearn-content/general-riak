@@ -4,4 +4,4 @@ In the Python modules more than in any of the others, it’ll be super helpful f
 
 Like I said earlier, go ahead and work together on anything you get stuck one. Learning together is great warmup for coding together.
 
-Bob
+Bob Loblaw - VP Eng, SuperMegaCorp
