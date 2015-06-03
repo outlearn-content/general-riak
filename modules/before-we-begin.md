@@ -9,7 +9,7 @@ license : "CC Attribution-ShareAlike 4.0"
 
 <!-- @section, "title": "Getting started" -->
 
-We'll kick things of with a case study of from Kiip and how they use Riak to connect advertisers and app makers. Next in line will be an overview from Basho on what Riak is good at.
+We'll kick things of with an overview from Basho on what Riak is good at. Next in line will be a case study of from Kiip and how they use Riak to connect advertisers and app make.
 
 The next two modules will help you get an overview of the concepts underlying Riak as well as get a working environment up and running. We'll then dive right into using Python for CRUD operations, querying, and object modeling. The Python modules will be followed by several modules on using the Riak HTTP API. The explanation of using different languages with Riak will be concluded by a module on Clojure.
 
