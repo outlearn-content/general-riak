@@ -6,6 +6,7 @@
       "name" : "general-riak",
       "title" : "Diving into Riak",
       "description" : "An introduction to Riak using Python and HTTP API",
+      "coverImage" : "http://www.publicdomainpictures.net/download-picture.php?adresar=10000&soubor=brick-wallpaper-112768510349JN4.jpg",
       "privacy" : "public",
       "pages" : [
         {"page" : "./context-pages/welcome.md"},
