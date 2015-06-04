@@ -8,7 +8,6 @@
       "description" : "An introduction to Riak using Python and HTTP API",
       "coverImage" : "http://www.publicdomainpictures.net/download-picture.php?adresar=10000&soubor=brick-wallpaper-112768510349JN4.jpg",
       "privacy" : "public",
-      "wrongkey" : "test",
       "pages" : [
         {"page" : "./context-pages/welcome.md"},
         {"module" : "before-we-begin"},
