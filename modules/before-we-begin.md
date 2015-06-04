@@ -7,6 +7,7 @@
 "freshnessDate" : 2015-06-01,
 "license" : "CC Attribution-ShareAlike 4.0",
 "contact" : { "email" : "will@outlearn.com" }
+}
 -->
 
 <!-- @section, "title": "Getting started" -->
