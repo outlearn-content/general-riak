@@ -36,3 +36,19 @@ Part of the beaty of online learning is that you can time it flexibly. But you d
 # Prerequisites
 
 This path assumes that you already know Python, basics of HTTP APIs, and have a general idea of how databases work. If you have specific areas where you'd like some refreshing and you're not sure where to find it, reach out to John for some suggestions.
+
+<!-- @asset, "contentType": "outlearn/video", "provider": "vimeo", "url": "https://player.vimeo.com/video/61887298" -->
+
+<!-- @no-outlearn -->
+
+<iframe src="http://player.vimeo.com/video/61887298" width="500" height="281"
+frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/61887298">Build Podcast 035 Capistrano</a>
+from <a href="https://vimeo.com/sayanee">Sayanee</a> on
+<a href="https://vimeo.com">Vimeo</a>.</p>
+
+<!-- @section -->
+
+## Following section
+
+More content after video here.
