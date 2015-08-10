@@ -6,6 +6,7 @@
       "name" : "general-riak",
       "title" : "Diving into Riak",
       "description" : "If you are new to Riak and want to get an overview of this NoSQL database, this is the path for you. We will cover the basic usage with Python as well as using the HTTP API.",
+      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/general-riak/master/assets/bricks.jpg",
       "privacy" : "public",
       "pages" : [
         {"page" : "./context-pages/welcome.md"},
