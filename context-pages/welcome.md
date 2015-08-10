@@ -11,7 +11,7 @@ I would love to hear any feedback about the path so I can keep on making it bett
 Hope you have fun!  
 Wave Watcher
 
-<img src="https://raw.githubusercontent.com/outlearn-content/general-riak/master/assets/waves.png" alt="Waves" style="width:250px;height:250px" align="left">
+<img src="https://raw.githubusercontent.com/outlearn-content/general-riak/master/assets/waves.jpg" alt="Waves" style="width:250px;height:250px" align="left">
 
 <br clear="all">
 
