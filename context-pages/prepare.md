@@ -4,6 +4,5 @@ Now that you’ve seen an example use case from Kiip, let’s get started with t
 
 After getting your mind ready to think and speak the Riak way, you’ll prep your machine with a local installation of Riak.
 
-Good luck and remember to try things out for yourself!
-
+Good luck and remember to try things out for yourself!  
 Wave Watcher

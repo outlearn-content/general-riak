@@ -2,9 +2,9 @@
 
 Welcome to Diving into Riak!
 
-Riak is an awesome database that is growing in popularity and getting better with each release. I put together this path to get you started with learning it. I assume you know the basics of databases and a fair bit of programming but will cover Riak-specific topics in detail.
+Riak is an awesome database that is growing in popularity and getting better with each release. I put together this path to get you started with learning it. I assume you know the basics of databases and a fair bit of programming. I will cover Riak-specific topics in detail.
 
-The core of the path comes from the official docs but we also spiced things up with some third party resources. Inside the modules there are many small and some larger tasks. The idea is that you can get your hands dirty and really apply what you learn. Do try them out and when you get stuck, feel free to use the feedback tab on the right side of the screen to reach out.
+The core of the path comes from the official docs but I also spiced things up with some third party resources. Inside the modules there are many small and some larger tasks. The idea is that you can get your hands dirty and really apply what you learn. Do try them out and when you get stuck, feel free to use the feedback tab on the right side of the screen to reach out.
 
 I would love to hear any feedback about the path so I can keep on making it better. And since the content is all on Github, if you want to improve something directly, go ahead and submit a pull request!
 
